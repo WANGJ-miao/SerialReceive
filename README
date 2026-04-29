@@ -1,0 +1,6 @@
+收集所有非0数据, 并绘制成图像
+使用说明:
+python3 serial_reader.py --COM {指定端口号, 例如COM3}
+默认保存至data/data.bin
+python3 serial_reader.py
+绘图
